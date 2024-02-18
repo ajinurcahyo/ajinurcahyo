@@ -23,4 +23,3 @@ Introducing, I am **Aji Nur Cahyo**. A student of Informatics at Jenderal Achmad
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
