@@ -14,5 +14,5 @@ Introducing, I am **Aji Nur Cahyo**. A student of Informatics at Jenderal Achmad
 <p>
   <a href="https://www.instagram.com/ajinrchyy/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aji-nur-cahyo-0951b1241/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100005946555871><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100005946555871"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
